@@ -7,7 +7,7 @@ class Counter extends Component {
     render() {
         // console.log(this.props);
         return (
-            <div className="col-3 product-container">
+            <div className="col-sm-6 col-md-3 product-container">
                 <div className="prod-img m-3">
                     <img src={this.props.countAttr.img} alt="product"/>
                 </div>
