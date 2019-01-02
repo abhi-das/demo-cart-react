@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/demo-cart-react/static/media/fontawesome-webfont.674f50d2.eot"
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/demo-cart-react/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "f0b608830c03040a7791",
-    "url": "/demo-cart-react/static/css/main.f89bc229.chunk.css"
+    "revision": "abaa89099284d070095e",
+    "url": "/demo-cart-react/static/css/main.e598c5f3.chunk.css"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/demo-cart-react/static/js/runtime~main.9eecc30d.js"
   },
   {
-    "revision": "f0b608830c03040a7791",
-    "url": "/demo-cart-react/static/js/main.f0b60883.chunk.js"
+    "revision": "abaa89099284d070095e",
+    "url": "/demo-cart-react/static/js/main.abaa8909.chunk.js"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/demo-cart-react/static/media/fontawesome-webfont.fee66e71.woff"
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/demo-cart-react/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/demo-cart-react/static/css/1.bb80141d.chunk.css"
   },
   {
-    "revision": "c55317e5aa25d785b34555490e8eb545",
+    "revision": "40b509675a8f77c45ab467072ce8cdc4",
     "url": "/demo-cart-react/index.html"
   }
 ];

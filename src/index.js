@@ -12,7 +12,7 @@ import 'font-awesome/css/font-awesome.css';
 import NotFound from './components/Notfound/Notfound';
 
 const appRouting = (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
         
         <Switch>
             <Route exact path="/" component={ App } />
