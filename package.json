@@ -1,8 +1,8 @@
 {
-  "name": "demo-cart-react",
-  "version": "0.2.0",
+  "name": "demo-cart",
+  "version": "0.1.0",
   "private": true,
-  "homepage": "https://abhi-das.github.io/demo-cart-react/",
+  "homepage": "https://abhi-das.github.io/demo-cart-react",
   "dependencies": {
     "bootstrap": "^4.2.1",
     "font-awesome": "^4.7.0",
