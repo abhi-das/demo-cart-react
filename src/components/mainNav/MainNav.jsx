@@ -15,16 +15,16 @@ class MainNav extends Component {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <NavLink className="nav-link" exact activeClassName="active" to="/">Home</NavLink>
+                            <NavLink className="nav-link" exact activeClassName="active" to={process.env.PUBLIC_URL + "/"}>Home</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link" activeClassName="active" to="/men">Men</NavLink>
+                            <NavLink className="nav-link" activeClassName="active" to={process.env.PUBLIC_URL + "/men"}>Men</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link" activeClassName="active" to="/women">Women</NavLink>
+                            <NavLink className="nav-link" activeClassName="active" to={process.env.PUBLIC_URL + "/women"}>Women</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link" activeClassName="active" to="/kids">Kids</NavLink>
+                            <NavLink className="nav-link" activeClassName="active" to={process.env.PUBLIC_URL + "/kids"}>Kids</NavLink>
                         </li>
                     </ul>
                 </div>
