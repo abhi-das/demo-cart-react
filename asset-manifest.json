@@ -1,16 +1,16 @@
 {
-  "main.css": "/demo-cart-react/static/css/main.f89bc229.chunk.css",
-  "main.js": "/demo-cart-react/static/js/main.f0b60883.chunk.js",
-  "main.js.map": "/demo-cart-react/static/js/main.f0b60883.chunk.js.map",
+  "main.css": "/demo-cart-react/static/css/main.e598c5f3.chunk.css",
+  "main.js": "/demo-cart-react/static/js/main.abaa8909.chunk.js",
+  "main.js.map": "/demo-cart-react/static/js/main.abaa8909.chunk.js.map",
   "static/css/1.bb80141d.chunk.css": "/demo-cart-react/static/css/1.bb80141d.chunk.css",
   "static/js/1.a4ecce0c.chunk.js": "/demo-cart-react/static/js/1.a4ecce0c.chunk.js",
   "static/js/1.a4ecce0c.chunk.js.map": "/demo-cart-react/static/js/1.a4ecce0c.chunk.js.map",
   "runtime~main.js": "/demo-cart-react/static/js/runtime~main.9eecc30d.js",
   "runtime~main.js.map": "/demo-cart-react/static/js/runtime~main.9eecc30d.js.map",
-  "static/media/font-awesome.css": "/demo-cart-react/static/media/fontawesome-webfont.fee66e71.woff",
-  "static/css/main.f89bc229.chunk.css.map": "/demo-cart-react/static/css/main.f89bc229.chunk.css.map",
+  "static/media/font-awesome.css": "/demo-cart-react/static/media/fontawesome-webfont.674f50d2.eot",
   "static/css/1.bb80141d.chunk.css.map": "/demo-cart-react/static/css/1.bb80141d.chunk.css.map",
+  "static/css/main.e598c5f3.chunk.css.map": "/demo-cart-react/static/css/main.e598c5f3.chunk.css.map",
   "index.html": "/demo-cart-react/index.html",
-  "precache-manifest.c1ef5aa6e375ec0c2a286a3471737b8d.js": "/demo-cart-react/precache-manifest.c1ef5aa6e375ec0c2a286a3471737b8d.js",
+  "precache-manifest.6749313dc131551918dd6a74eb8dc1a5.js": "/demo-cart-react/precache-manifest.6749313dc131551918dd6a74eb8dc1a5.js",
   "service-worker.js": "/demo-cart-react/service-worker.js"
 }
