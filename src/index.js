@@ -12,13 +12,13 @@ import 'font-awesome/css/font-awesome.css';
 import NotFound from './components/Notfound/Notfound';
 
 const appRouting = (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
         
         <Switch>
-            <Route exact path="/" component={ App } />
-            <Route path="/men" component={ App }/>
-            <Route path="/women" component={ App } />
-            <Route path="/kids" component={ App } />
+            <Route exact path={process.env.PUBLIC_URL + "/"} component={ App } />
+            <Route path={process.env.PUBLIC_URL + "/men"} component={ App }/>
+            <Route path={process.env.PUBLIC_URL + "/women"} component={ App } />
+            <Route path={process.env.PUBLIC_URL + "/kids"} component={ App } />
             <Route component={ NotFound } />
         </Switch>
         
